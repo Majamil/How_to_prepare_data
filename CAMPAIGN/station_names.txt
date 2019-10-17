@@ -1,0 +1,4 @@
+station
+WA_01
+WA_02
+WA_03
