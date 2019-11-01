@@ -9,7 +9,7 @@ Cleasning 160 files from CTD sensors takes +/- one day of boring work (8h). With
 
 ## General info
 
-The purpose of the project was to remove irrcorect records from multiple CTD files. By irrcorect I mean records from the air or when sensor return to the surface. The effect of the automatic file cleaning is a bulk .csv file.
+The purpose of the project was to remove irrcorect records from multiple CTD files. By irrcorect I mean records from the air or when sensor returns to the surface. The effect of the automatic file cleaning is a bulk .csv files.
 
 ## Technologies
 * Python - version 3.6.9
