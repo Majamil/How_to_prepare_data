@@ -1,6 +1,6 @@
 # How to prepare data from CTD sensors
 Repetitive operations are boring. It is wise to automate them. So I did.
-Cleasning 160 files from CTD sensors takes +/- one day of boring work (8h). With this script work shortened to +/- 10s.
+Cleasning 160 files from CTD sensors takes +/- one day of boring work (8h). With this script work shortened to 10s.
 
 ## Table of contents
 * [General info](#general-info)
